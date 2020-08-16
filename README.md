@@ -1,12 +1,12 @@
 <h2> GASTR_Vn </h2>
-GASTR (Genomic AnalysiS ToolbaR) is a work in progress and is still a private build. Access to this Github repo is strictly private. 
+<p> GASTR (Genomic AnalysiS ToolbaR) is a work in progress and is still a private build. Access to this Github repo is strictly private. </p>
 
 <h2> What's the point? </h2> 
-Simply put, not everyone has the same programming capabilities. Because of this gap, we wanted to make a handful of tools that anyone can use. Collecting packages with useful contexts in computational biology, statistics, and creating a user-friendly interface from them. 
-Additionally, if a tool has yet to be created for a set purpose, we set out to add it here too. 
+<p> Simply put, not everyone has the same programming capabilities. Because of this gap, we wanted to make a handful of tools that anyone can use. Collecting packages with useful contexts in computational biology, statistics, and creating a user-friendly interface from them. 
+Additionally, if a tool has yet to be created for a set purpose, we set out to add it here too. </p>
 
 <h2> Imports needed: </h2> 
-The following imports are needed to ensure the program runs smoothly. Alternatively, you may extract the whole repo and run the xeq.exe file. 
+  <p>The following imports are needed to ensure the program runs smoothly. Alternatively, you may extract the whole repo and run the xeq.exe file. If you are looking to clone the current beta version, see the link <a href="https://www.jetbrains.com/help/pycharm/manage-projects-hosted-on-github.html"> here </a> </p>
 
 <table>
   <tr>
