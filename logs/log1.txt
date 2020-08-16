@@ -1,0 +1,21 @@
+Fri Aug 14 15:59:31 2020
+
+start listFastaFiles
+
+start putFasta
+start son
+son choice: Yago84.fasta
+choice = Yago84.fasta
+.fasta file: data/Yago84.fasta
+phage: Gordonia phage Yago84 complete sequence, 61890 bp, circularly permuted, Cluster DR
+alfa: Gordonia phage Yago84 complete sequence, 61890 bp, circularly permuted, Cluster DR
+
+start addFile
+choice: Mariokart.fasta
+.fasta choices: ['Mariokart.fasta']
+
+start addFile
+choice: Sour.fasta
+.fasta choices: ['Mariokart.fasta', 'Sour.fasta']
+
+start acceptFastas

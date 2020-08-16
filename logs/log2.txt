@@ -1,0 +1,25 @@
+Fri Aug 14 15:57:20 2020
+
+start listFastaFiles
+
+start putFasta
+start son
+son choice: Mariokart.fasta
+choice = Mariokart.fasta
+.fasta file: data/Mariokart.fasta
+phage: Gordonia phage Mariokart complete sequence, 60762 bp, circularly permuted, Cluster DR
+alfa: Gordonia phage Mariokart complete sequence, 60762 bp, circularly permuted, Cluster DR
+
+start addFile
+choice: CloverMinnie.fasta
+.fasta choices: ['CloverMinnie.fasta']
+
+start addFile
+choice: NHagos.fasta
+.fasta choices: ['CloverMinnie.fasta', 'NHagos.fasta']
+
+start addFile
+choice: Yago84.fasta
+.fasta choices: ['CloverMinnie.fasta', 'NHagos.fasta', 'Yago84.fasta']
+
+start acceptFastas
