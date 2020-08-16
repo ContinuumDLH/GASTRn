@@ -8,26 +8,91 @@ Additionally, if a tool has yet to be created for a set purpose, we set out to a
 <h2> Imports needed: </h2> 
 The following imports are needed to ensure the program runs smoothly. Alternatively, you may extract the whole repo and run the xeq.exe file. 
 
-Packages		        Version Baseline
-Pillow	            7.2.0	
-PyQt5	              5.15.0	
-PyQt5-sip	          12.8.0
-PyQt5-stubs	        5.14.2.2
-biopython	          1.77
-cycler	            0.10.0
-kiwisolver	        1.2.0
-matplotlib	        3.3.0
-numpy	              1.19.1
-pip	                20.2.2
-pyparsing	          2.4.7
-python-dateutil	    2.8.1
-setuptools	        49.4.0
-six	                1.15.0
+<table>
+  <tr>
+    <th> Packages </th>
+    <th> Version Baseline </th>
+  </tr>
+      
+  <tr>
+    <td> Pillow </td>
+    <td> 5.15.0 </td> 
+  </tr>
+  
+  <tr>
+    <td> PyQt5 </td>
+    <td> 7.2.0 </td> 
+  </tr>
+  
+  <tr>
+    <td> PyQt5-sip </td>
+    <td> 12.8.0 </td> 
+  </tr>
+  
+  <tr>
+    <td> PyQt5-stubs </td>
+    <td> 5.14.2.2 </td> 
+  </tr>
+  
+  <tr>
+    <td> biopython </td>
+    <td> 1.77 </td> 
+  </tr>
+  
+  <tr>
+    <td> cycler </td>
+    <td> 0.10.0 </td> 
+  </tr>
+
+
+  <tr>
+    <td> kiwisolver </td>
+    <td> 1.2.0 </td> 
+  </tr>
+
+
+  <tr>
+    <td> matplotlib </td>
+    <td> 3.3.0 </td> 
+  </tr>
+  
+  <tr>
+    <td> numpy </td>
+    <td> 1.19.1 </td> 
+  </tr>
+  
+  <tr>
+    <td> pip </td>
+    <td> 20.2.2 </td> 
+  </tr>
+  
+  <tr>
+    <td> pyparsing </td>
+    <td> 2.4.7 </td> 
+  </tr>
+  
+  <tr>
+    <td> python-dateutil </td>
+    <td> 2.8.1 </td> 
+  </tr>
+  
+  <tr>
+    <td> setuptools </td>
+    <td> 49.4.0 </td> 
+  </tr>
+  
+  <tr>
+    <td> six </td>
+    <td> 1.15.0 </td> 
+  </tr>
+
+</table>
 
 <h2> References: (To be finished later) </h2>
-[1]: Biopython
-[2]: Bayesian Statistics
-[3]: Mahalanobis distance
-[4]:
+  <ul>
+  <li> [1]: Biopython </li>
+  <li> [2]: Bayesian Statistics </li>
+  <li> [3]: Mahalanobis distance </li>
+  <li> [4]: </li>
 
 
